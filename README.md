@@ -1,5 +1,3 @@
-# Banking-Fraud-Detection
-SQL Project for fraud detection
 # Banking Fraud Detection using SQL
 
 ## 📌 Objective
