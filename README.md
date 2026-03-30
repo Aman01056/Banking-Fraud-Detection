@@ -1,42 +1,52 @@
-# Banking Fraud Detection using SQL
+# 💳 Banking Fraud Detection using SQL
 
 ## 📌 Objective
+Analyze banking transactions to identify fraudulent or suspicious activities using SQL queries.
 
-Analyze banking transactions to detect fraudulent or suspicious activities using SQL.
+---
 
-## 🛠 Tools Used
+## 🛠️ Tools Used
+- SQL (MySQL)
 
-* SQL (MySQL)
+---
 
 ## 📊 Dataset
+The dataset contains transaction-level data including:
+- Customer ID
+- Transaction Amount
+- Transaction Date
+- Transaction Type
+- Location
 
-Contains transaction-level data including:
-
-* Customer ID
-* Transaction Amount
-* Transaction Type
-* Date & Time
-* Location
+---
 
 ## 🔍 Key Analysis Performed
 
-* Identified high-value transactions (>50,000)
-* Detected rapid transactions using window functions (LAG)
-* Analyzed location changes for suspicious activity
-* Created fraud scoring model using CASE WHEN
+### 1. High Value Transactions
+- Identified transactions greater than ₹50,000
 
-## 💡 Key Insights
+### 2. Multiple Transactions in Same Day
+- Detected customers performing multiple transactions in a single day
 
-* Customers performing multiple transactions within minutes are high-risk
-* High-value and international transactions increase fraud probability
-* Sudden location changes indicate suspicious behavior
+### 3. Previous Transaction Analysis (LAG)
+- Used window function to track previous transactions
 
-## 🚀 Conclusion
+### 4. Rapid Transactions Detection
+- Flagged transactions occurring within short time intervals (<5 minutes)
 
-SQL can be effectively used to detect fraud patterns and analyze risk in financial datasets.
+### 5. Fraud Score Calculation
+- Assigned fraud scores based on suspicious behavior
+
+---
+
+## 📸 Screenshots
+
+![Q1]("C:\Users\shaky\OneDrive\cv\Desktop\q1_High_value.png")
+![Q2]("C:\Users\shaky\OneDrive\cv\Desktop\q2_Multiple_Txn.png")
+![Q3]("C:\Users\shaky\OneDrive\cv\Desktop\q3_Lag.png")
+![Q4]("C:\Users\shaky\OneDrive\cv\Desktop\q4_Rapid.png")
+![Q5]("C:\Users\shaky\OneDrive\cv\Desktop\q5_Fraud_Score.png")
+
+---
 
 ## 📁 Project Structure
-
-* dataset.csv
-* queries.sql
-* README.md
