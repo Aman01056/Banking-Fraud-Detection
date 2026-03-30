@@ -45,7 +45,7 @@ The dataset contains transaction-level data including:
 ![Q2](Screenshot:q2_Multiple_Txn.png)
 ![Q3](Screenshot:q3_Lag.png)
 ![Q4](Screenshot:q4_Rapid.png)
-![Q5]("C:\Users\shaky\OneDrive\cv\Desktop\q5_Fraud_Score.png")
+![Q5](Screenshot:q5_Fraud_Score.png)
 
 ---
 
