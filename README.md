@@ -41,7 +41,7 @@ The dataset contains transaction-level data including:
 
 ## 📸 Screenshots
 
-![Q1]("C:\Users\shaky\OneDrive\cv\Desktop\q1_High_value.png")
+![Q1](Screenshot:q1_High_value.png)
 ![Q2](Screenshot:q2_Multiple_Txn.png)
 ![Q3]("C:\Users\shaky\OneDrive\cv\Desktop\q3_Lag.png")
 ![Q4]("C:\Users\shaky\OneDrive\cv\Desktop\q4_Rapid.png")
