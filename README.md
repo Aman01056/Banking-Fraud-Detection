@@ -41,7 +41,8 @@ The dataset contains transaction-level data including:
 
 ## 📸 Screenshots
 
-![Q1](Screenshot:q1_High_value.png)
+![Q1](<img width="900" height="400" alt="q1_High_value" src="https://github.com/user-attachments/assets/da17c433-4173-4a5d-ba74-05523f7b9a7d" />
+)
 ![Q2](Screenshot:q2_Multiple_Txn.png)
 ![Q3](Screenshot:q3_Lag.png)
 ![Q4](Screenshot:q4_Rapid.png)
