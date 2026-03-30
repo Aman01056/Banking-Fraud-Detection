@@ -1,0 +1,16 @@
+transaction_id,customer_id,amount,transaction_type,transaction_date,location
+1,101,12000,online,01-01-2024,Delhi
+2,101,55000,online,01-01-2024,Mumbai
+3,101,200,offline,01-01-2024,Mumbai
+4,102,800,online,02-01-2024,Delhi
+5,102,900,online,02-01-2024,Delhi
+6,102,950,online,02-01-2024,Delhi
+7,103,70000,international,03-01-2024,Dubai
+8,103,1000,online,03-01-2024,Dubai
+9,104,300,offline,04-01-2024,Delhi
+10,104,40000,online,04-01-2024,Chennai
+11,105,100000,international,05-01-2024,London
+12,105,2000,online,05-01-2024,London
+13,106,500,offline,06-01-2024,Delhi
+14,106,600,offline,06-01-2024,Delhi
+15,107,75000,online,07-01-2024,Mumbai
