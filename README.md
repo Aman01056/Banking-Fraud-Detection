@@ -41,15 +41,11 @@ The dataset contains transaction-level data including:
 
 ## 📸 Screenshots
 
-![Q1](Screenshot:q1_High_value.png)
-![Q2](<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/96a497f9-f174-4bbd-b820-59f210d8db28" />
-)
-![Q3](<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/ee4737e8-bff3-4f7f-882c-d7c9de6acfbc" />
-)
-![Q4](<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/a4ad6052-787f-4806-8be6-a350f2221286" />
-)
-![Q5](<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/c71edc54-be9e-4b2e-a869-97217874c6f5" />
-)
+![Q1]("C:\Users\shaky\Downloads\Screenshot_q1_High_value.png")
+![Q2]("C:\Users\shaky\Downloads\Screenshot_q2_Multiple_Txn.png")
+![Q3]("C:\Users\shaky\Downloads\Screenshot_q3_Lag.png")
+![Q4]("C:\Users\shaky\Downloads\Screenshot_q4_Rapid.png")
+![Q5]("C:\Users\shaky\Downloads\Screenshot_q5_Fraud_Score.png")
 
 ---
 
